@@ -7,7 +7,7 @@ https://unduhduhsea.github.io/Password-Generator/
 ## About The Project
 
 
-![Password Generator](Assets\images\password-generator.jpg "Password Generator")
+![Password Generator](./Assets\images\password-generator.jpg "Password Generator")
 
 This project is password generator. Click the button and follow
 the prompts to generate a password. The prompts goes in this order:
